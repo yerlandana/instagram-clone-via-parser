@@ -11,6 +11,7 @@ import UIKit
 import PhotosUI
 
 // TODO: Import Parse Swift
+import ParseSwift
 
 class PostViewController: UIViewController {
 
